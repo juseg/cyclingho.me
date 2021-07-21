@@ -1,0 +1,25 @@
+# Copyright (c) 2021, Julien Seguinot (juseg.github.io)
+# Creative Commons Attribution-ShareAlike 4.0 International License
+# (CC BY-SA 4.0, http://creativecommons.org/licenses/by-sa/4.0/)
+
+### Jekyll configuration file
+
+# site settings
+title: Cycling Home
+description: Bicycle touring blog
+url: https://cyclingho.me
+
+# build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# exclude from processing
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
