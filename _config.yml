@@ -10,9 +10,13 @@ description: Bicycle touring blog
 url: https://cyclingho.me
 
 # build settings
-theme: minima
-plugins:
-  - jekyll-feed
+remote_theme: juseg/sleek
+permalink: /:title/
+
+# theme settings
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
 
 # exclude from processing
 include:
