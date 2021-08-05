@@ -17,6 +17,7 @@ permalink: /:title/
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
+tagline: Bicycle touring blog
 
 # exclude from processing
 include:
