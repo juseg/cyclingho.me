@@ -27,3 +27,8 @@ exclude:
   - LICENSE
   - README.md
   - vendor
+
+# jekyll plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sass-converter
