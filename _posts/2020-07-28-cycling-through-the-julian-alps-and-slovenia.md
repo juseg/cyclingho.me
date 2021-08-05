@@ -2,7 +2,8 @@
 title: Cycling through the Julian Alps and Slovenia
 date: 2020-07-28 23:45:56.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Italy
 - Slovenia

@@ -2,7 +2,8 @@
 title: Cycling into the Gulf of Corinth and to the Aegean Sea
 date: 2020-10-25 12:00:43.000000000 +01:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Greece
 header:

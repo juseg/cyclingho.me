@@ -2,7 +2,8 @@
 title: Cycling through Lovćen and along Lake Skadar
 date: 2020-09-11 10:00:30.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Albania
 - Montenegro

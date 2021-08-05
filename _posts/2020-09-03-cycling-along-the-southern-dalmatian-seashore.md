@@ -2,7 +2,8 @@
 title: Cycling along the southern Dalmatian seashore
 date: 2020-09-03 12:00:37.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Croatia
 header:

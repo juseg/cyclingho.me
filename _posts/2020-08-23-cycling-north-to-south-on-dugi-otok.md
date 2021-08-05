@@ -2,7 +2,8 @@
 title: Cycling north to south on Dugi Otok
 date: 2020-08-23 20:00:00.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Croatia
 header:

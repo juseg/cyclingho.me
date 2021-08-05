@@ -2,7 +2,8 @@
 title: Bicycle touring during the pandemic
 date: 2020-09-04 12:00:13.000000000 +02:00
 categories:
-- Cycling tips
+- Cycling
+- Tips
 tags: []
 header:
   image: https://live.staticflickr.com/65535/50209050481_98bfa520e6_w.jpg

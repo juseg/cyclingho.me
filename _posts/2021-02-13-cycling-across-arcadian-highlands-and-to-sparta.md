@@ -2,7 +2,8 @@
 title: Cycling across Arcadian highlands and to Sparta
 date: 2021-02-13 12:00:00.000000000 +01:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Greece
 header:

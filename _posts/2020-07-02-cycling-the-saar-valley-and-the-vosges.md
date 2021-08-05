@@ -2,7 +2,8 @@
 title: Cycling up the Saar Valley and the northern Vosges
 date: 2020-07-02 20:53:03.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - France
 - Germany

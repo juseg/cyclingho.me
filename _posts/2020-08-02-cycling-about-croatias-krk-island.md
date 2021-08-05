@@ -2,7 +2,8 @@
 title: Cycling about Croatia's Krk Island
 date: 2020-08-02 11:00:00.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Croatia
 - Slovenia

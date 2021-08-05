@@ -2,7 +2,8 @@
 title: Cycling across the Swiss Alps
 date: 2020-07-17 09:40:55.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Italy
 - Liechtenstein

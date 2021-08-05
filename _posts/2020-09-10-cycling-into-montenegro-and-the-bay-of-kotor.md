@@ -2,7 +2,8 @@
 title: Cycling into Montenegro and the Bay of Kotor
 date: 2020-09-10 16:00:59.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Croatia
 - Montenegro

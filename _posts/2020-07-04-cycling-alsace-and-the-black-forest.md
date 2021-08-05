@@ -2,7 +2,8 @@
 title: Cycling through Alsace and the Black Forest
 date: 2020-07-04 10:25:47.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - France
 - Germany

@@ -2,7 +2,8 @@
 title: Cycling in East Tyrol and Carinthia
 date: 2020-07-23 10:00:00.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Austria
 - Italy

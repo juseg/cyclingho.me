@@ -2,7 +2,8 @@
 title: Bicycle touring tips for coastal Croatia
 date: 2020-09-04 10:00:56.000000000 +02:00
 categories:
-- Cycling tips
+- Cycling
+- Tips
 tags:
 - Croatia
 header:

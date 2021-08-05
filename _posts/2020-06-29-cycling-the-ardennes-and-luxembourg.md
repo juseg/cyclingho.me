@@ -2,7 +2,8 @@
 title: Cycling through the Ardennes and Luxembourg
 date: 2020-06-29 16:00:21.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Belgium
 - France

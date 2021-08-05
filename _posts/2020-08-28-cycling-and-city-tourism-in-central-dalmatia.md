@@ -2,7 +2,8 @@
 title: Cycling and visiting cities in Central Dalmatia
 date: 2020-08-28 08:00:00.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Croatia
 header:

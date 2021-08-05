@@ -2,7 +2,8 @@
 title: Cycling on Pag Island and to Zadar
 date: 2020-08-16 16:00:00.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Croatia
 header:

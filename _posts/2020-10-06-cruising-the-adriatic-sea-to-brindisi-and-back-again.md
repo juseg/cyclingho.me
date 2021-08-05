@@ -2,7 +2,8 @@
 title: Cruising the Adriatic Sea to Brindisi and back again
 date: 2020-10-06 10:00:00.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Albania
 - Greece

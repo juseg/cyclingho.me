@@ -2,7 +2,8 @@
 title: Cycling around Argolis but no further than Hydra
 date: 2020-11-11 20:00:15.000000000 +01:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Greece
 header:

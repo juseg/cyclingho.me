@@ -2,7 +2,8 @@
 title: Cycling east in northern France and Belgium
 date: 2020-06-27 08:06:13.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Belgium
 - France

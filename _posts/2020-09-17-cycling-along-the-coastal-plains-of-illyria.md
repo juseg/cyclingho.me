@@ -2,7 +2,8 @@
 title: Cycling along the coastal plains of Illyria
 date: 2020-09-17 09:00:35.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Albania
 header:

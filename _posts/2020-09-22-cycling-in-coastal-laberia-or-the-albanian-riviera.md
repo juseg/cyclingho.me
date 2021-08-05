@@ -2,7 +2,8 @@
 title: Cycling in coastal Labëria or the Albanian Riviera
 date: 2020-09-22 08:00:53.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Albania
 header:

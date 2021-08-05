@@ -2,7 +2,8 @@
 title: Taking a break in Rab
 date: 2020-08-10 19:06:01.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Croatia
 header:

@@ -2,7 +2,8 @@
 title: Taking a break on Poros
 date: 2020-10-28 20:00:57.000000000 +01:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Greece
 header:

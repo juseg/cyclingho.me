@@ -2,7 +2,8 @@
 title: Cycling along the Ionian Sea coasts of Epirus and Arcania
 date: 2020-10-10 16:00:52.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Greece
 header:

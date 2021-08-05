@@ -2,7 +2,8 @@
 title: Bicycle touring gear list
 date: 2020-09-04 18:00:24.000000000 +02:00
 categories:
-- Cycling tips
+- Cycling
+- Tips
 tags: []
 header:
   image: https://live.staticflickr.com/65535/50300719211_650c789249_w.jpg

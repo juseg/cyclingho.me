@@ -2,7 +2,8 @@
 title: Cycling through South Tyrol and the Dolomites
 date: 2020-07-21 11:00:00.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Italy
 header:

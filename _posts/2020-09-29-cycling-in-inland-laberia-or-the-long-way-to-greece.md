@@ -2,7 +2,8 @@
 title: Cycling in inland Labëria or the long way to Greece
 date: 2020-09-29 08:00:29.000000000 +02:00
 categories:
-- Cycling Europe
+- Cycling
+- Europe
 tags:
 - Albania
 - Greece
