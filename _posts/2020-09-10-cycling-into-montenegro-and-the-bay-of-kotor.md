@@ -6,6 +6,9 @@ categories:
 tags:
 - Croatia
 - Montenegro
+header:
+  image: https://live.staticflickr.com/65535/50309084252_ce367aa7f9_b.jpg
+  teaser: https://live.staticflickr.com/65535/50309084252_ce367aa7f9_w.jpg
 ---
 
 On August 31, 2020, after spending the entire month in Croatia, I was

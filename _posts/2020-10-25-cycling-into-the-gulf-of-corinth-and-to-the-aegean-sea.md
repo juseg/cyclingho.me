@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Greece
+header:
+  image: https://live.staticflickr.com/65535/50451320302_b01f880da5_b.jpg
+  teaser: https://live.staticflickr.com/65535/50451320302_b01f880da5_w.jpg
 ---
 
 I woke up in Tourlida from my best sleep in a while. I felt that I had

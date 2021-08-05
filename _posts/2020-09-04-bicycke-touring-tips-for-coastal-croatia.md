@@ -5,6 +5,9 @@ categories:
 - Cycling tips
 tags:
 - Croatia
+header:
+  image: https://live.staticflickr.com/65535/50208536658_2c106e692a_b.jpg
+  teaser: https://live.staticflickr.com/65535/50208536658_2c106e692a_w.jpg
 ---
 
 Croatia has some incredible coastal scenery, but in my experience, it

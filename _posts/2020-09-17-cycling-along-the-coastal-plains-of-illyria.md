@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Albania
+header:
+  image: https://live.staticflickr.com/65535/50351599377_f240ec117b_b.jpg
+  teaser: https://live.staticflickr.com/65535/50351599377_f240ec117b_w.jpg
 ---
 
 I entered Albania fearing this could be a dead end. At least until

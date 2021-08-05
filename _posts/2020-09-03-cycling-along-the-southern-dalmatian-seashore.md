@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Croatia
+header:
+  image: https://live.staticflickr.com/65535/50300686621_a219cc28cd_b.jpg
+  teaser: https://live.staticflickr.com/65535/50300686621_a219cc28cd_w.jpg
 ---
 
 I left Split in such low moods that even a last ricotta fig ice cream

@@ -6,6 +6,9 @@ categories:
 tags:
 - Croatia
 - Slovenia
+header:
+  image: https://live.staticflickr.com/65535/50209332922_c683b61d86_b.jpg
+  teaser: https://live.staticflickr.com/65535/50209332922_c683b61d86_w.jpg
 ---
 
 The culture shock between Slovenia and Croatia was much stronger than

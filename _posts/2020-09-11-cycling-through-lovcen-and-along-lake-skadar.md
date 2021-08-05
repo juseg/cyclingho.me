@@ -6,6 +6,9 @@ categories:
 tags:
 - Albania
 - Montenegro
+header:
+  image: https://live.staticflickr.com/65535/50325621353_b4baa5440f_b.jpg
+  teaser: https://live.staticflickr.com/65535/50325621353_b4baa5440f_w.jpg
 ---
 
 I planned to leave Kotor in the early morning, and cycle the 25

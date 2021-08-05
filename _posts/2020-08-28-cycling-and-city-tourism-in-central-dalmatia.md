@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Croatia
+header:
+  image: https://live.staticflickr.com/65535/50275399783_614202fa37_b.jpg
+  teaser: https://live.staticflickr.com/65535/50275399783_614202fa37_w.jpg
 ---
 
 I had not initially expected to encounter any more familiar faces after

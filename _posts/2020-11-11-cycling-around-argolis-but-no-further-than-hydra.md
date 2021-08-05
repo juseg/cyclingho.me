@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Greece
+header:
+  image: https://live.staticflickr.com/65535/50573449301_7425a5f99a_b.jpg
+  teaser: https://live.staticflickr.com/65535/50573449301_7425a5f99a_w.jpg
 ---
 
 While I normally turn my tent over and shake it in the air to ensure

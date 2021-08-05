@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Croatia
+header:
+  image: https://live.staticflickr.com/65535/50246879106_5d7bab6d88_b.jpg
+  teaser: https://live.staticflickr.com/65535/50246879106_5d7bab6d88_w.jpg
 ---
 
 Throughout my stay in Croatia, I had not yet seen the open sea. I spent

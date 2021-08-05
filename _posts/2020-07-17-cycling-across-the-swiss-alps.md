@@ -7,6 +7,9 @@ tags:
 - Italy
 - Liechtenstein
 - Switzerland
+header:
+  image: https://live.staticflickr.com/65535/50208486123_ea23866f42_b.jpg
+  teaser: https://live.staticflickr.com/65535/50208486123_ea23866f42_w.jpg
 ---
 
 After a week-long break, I finally left Wetzikon on late rainy morning.

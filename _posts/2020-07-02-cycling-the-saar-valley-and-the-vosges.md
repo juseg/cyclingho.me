@@ -6,6 +6,9 @@ categories:
 tags:
 - France
 - Germany
+header:
+  image: https://live.staticflickr.com/65535/50208464158_91997839ce_b.jpg
+  teaser: https://live.staticflickr.com/65535/50208464158_91997839ce_w.jpg
 ---
 
 When I began bike touring in my early twenties, I was a student on a

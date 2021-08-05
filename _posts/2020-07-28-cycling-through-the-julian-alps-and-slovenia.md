@@ -6,6 +6,9 @@ categories:
 tags:
 - Italy
 - Slovenia
+header:
+  image: https://live.staticflickr.com/65535/50209049471_c81be8d8a5_b.jpg
+  teaser: https://live.staticflickr.com/65535/50209049471_c81be8d8a5_w.jpg
 ---
 
 I was beginning to find out the major difference between holiday

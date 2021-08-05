@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Albania
+header:
+  image: https://live.staticflickr.com/65535/50360240442_edbcee86c1_b.jpg
+  teaser: https://live.staticflickr.com/65535/50360240442_edbcee86c1_w.jpg
 ---
 
 Official sources informed that border crossings overland between Albania

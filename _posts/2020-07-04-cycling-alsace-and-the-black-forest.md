@@ -7,6 +7,9 @@ tags:
 - France
 - Germany
 - Switzerland
+header:
+  image: https://live.staticflickr.com/65535/50209276332_307b4d14b7_b.jpg
+  teaser: https://live.staticflickr.com/65535/50209276332_307b4d14b7_w.jpg
 ---
 
 My cousin and his partner had recently moved to a quiet town in the

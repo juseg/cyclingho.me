@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Croatia
+header:
+  image: https://live.staticflickr.com/65535/50218785766_3e812475fa_b.jpg
+  teaser: https://live.staticflickr.com/65535/50218785766_3e812475fa_w.jpg
 ---
 
 One more thing happened on Rab. After more than two thousand kilometres

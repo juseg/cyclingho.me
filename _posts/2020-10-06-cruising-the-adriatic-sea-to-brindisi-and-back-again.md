@@ -7,6 +7,9 @@ tags:
 - Albania
 - Greece
 - Italy
+header:
+  image: https://live.staticflickr.com/65535/50421413167_8052e28b49_b.jpg
+  teaser: https://live.staticflickr.com/65535/50421413167_8052e28b49_w.jpg
 ---
 
 Two ferry boats were anchored in the port of Vlorë. I cycled to the

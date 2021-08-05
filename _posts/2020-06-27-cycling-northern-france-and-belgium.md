@@ -6,6 +6,9 @@ categories:
 tags:
 - Belgium
 - France
+header:
+  image: https://live.staticflickr.com/65535/50208444303_fc9ae71066_b.jpg
+  teaser: https://live.staticflickr.com/65535/50208444303_fc9ae71066_w.jpg
 ---
 
 The border to Belgium finally opened on June 15. It had been closed for

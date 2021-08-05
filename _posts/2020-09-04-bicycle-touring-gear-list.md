@@ -4,7 +4,12 @@ date: 2020-09-04 18:00:24.000000000 +02:00
 categories:
 - Cycling tips
 tags: []
+header:
+  image: https://live.staticflickr.com/65535/50300719211_650c789249_w.jpg
+  teaser: https://live.staticflickr.com/65535/50300719211_650c789249_b.jpg
 ---
+
+<!-- FIXME gear image header -->
 
 This is the gear I currently carry along while cycling east across
 Europe. It sums up to roughly 15 kg for the bike and 25 kg of luggage.

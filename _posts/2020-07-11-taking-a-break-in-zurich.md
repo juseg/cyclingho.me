@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Switzerland
+header:
+  image: https://live.staticflickr.com/65535/50209002256_50f284d878_b.jpg
+  teaser: https://live.staticflickr.com/65535/50209002256_50f284d878_w.jpg
 ---
 
 Ever since I had left Lille, I had thought of Zurich as a final

@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Greece
+header:
+  image: https://live.staticflickr.com/65535/50540838772_c362d2a2cc_b.jpg
+  teaser: https://live.staticflickr.com/65535/50540838772_c362d2a2cc_w.jpg
 ---
 
 Poros, I knew in advance, was not my island. By this I mean, that Poros

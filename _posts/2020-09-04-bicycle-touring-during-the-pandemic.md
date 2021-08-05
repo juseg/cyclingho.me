@@ -4,6 +4,9 @@ date: 2020-09-04 12:00:13.000000000 +02:00
 categories:
 - Cycling tips
 tags: []
+header:
+  image: https://live.staticflickr.com/65535/50209050481_98bfa520e6_w.jpg
+  teaser: https://live.staticflickr.com/65535/50209050481_98bfa520e6_b.jpg
 ---
 
 So you think 2020 is the worst year to go cycling about. Or maybe the

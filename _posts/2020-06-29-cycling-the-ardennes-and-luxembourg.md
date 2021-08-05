@@ -8,6 +8,9 @@ tags:
 - France
 - Germany
 - Luxembourg
+header:
+  image: https://live.staticflickr.com/65535/50209256212_21548e262d_b.jpg
+  teaser: https://live.staticflickr.com/65535/50209256212_21548e262d_w.jpg
 ---
 
 After six days of rest in the French Ardennes, I repacked my bags and

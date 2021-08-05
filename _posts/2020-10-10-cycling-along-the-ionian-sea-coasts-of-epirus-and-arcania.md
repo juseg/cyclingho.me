@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Greece
+header:
+  image: https://live.staticflickr.com/65535/50444254946_287a679bc8_b.jpg
+  teaser: https://live.staticflickr.com/65535/50444254946_287a679bc8_w.jpg
 ---
 
 I woke up once again from my improvised camp site on the promenade deck.

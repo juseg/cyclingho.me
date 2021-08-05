@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Italy
+header:
+  image: https://live.staticflickr.com/65535/50208508298_14867d36ae_b.jpg
+  teaser: https://live.staticflickr.com/65535/50208508298_14867d36ae_w.jpg
 ---
 
 In 2020, the internet is full of excellent bike touring blogs. I knew

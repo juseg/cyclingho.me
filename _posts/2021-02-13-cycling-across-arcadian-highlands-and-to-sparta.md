@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Greece
+header:
+  image: https://live.staticflickr.com/65535/50841081488_e2a9bbb9df_b.jpg
+  teaser: https://live.staticflickr.com/65535/50841081488_e2a9bbb9df_w.jpg
 ---
 
 The docks were already bursting with activity when I pushed my loaded

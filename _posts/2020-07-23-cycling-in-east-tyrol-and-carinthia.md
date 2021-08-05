@@ -6,6 +6,9 @@ categories:
 tags:
 - Austria
 - Italy
+header:
+  image: https://live.staticflickr.com/65535/50209320557_a2bf435a18_b.jpg
+  teaser: https://live.staticflickr.com/65535/50209320557_a2bf435a18_w.jpg
 ---
 
 After the Dolomites, I began to more readily identify myself as a

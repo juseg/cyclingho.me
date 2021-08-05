@@ -6,6 +6,9 @@ categories:
 tags:
 - Albania
 - Greece
+header:
+  image: https://live.staticflickr.com/65535/50421166881_d0a073abd7_b.jpg
+  teaser: https://live.staticflickr.com/65535/50421166881_d0a073abd7_w.jpg
 ---
 
 Armed with my negative covid test, my digital entry form, and my

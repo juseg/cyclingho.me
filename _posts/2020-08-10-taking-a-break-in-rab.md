@@ -5,6 +5,9 @@ categories:
 - Cycling Europe
 tags:
 - Croatia
+header:
+  image: https://live.staticflickr.com/65535/50209343017_0d3ebbd938_b.jpg
+  teaser: https://live.staticflickr.com/65535/50209343017_0d3ebbd938_w.jpg
 ---
 
 The food poisoning on Krk Island had been a serious blow to my
