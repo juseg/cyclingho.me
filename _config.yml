@@ -10,7 +10,7 @@ description: Bicycle touring blog
 url: https://cyclingho.me
 
 # build settings
-remote_theme: juseg/sleek
+remote_theme: juseg/keels
 permalink: /:title/
 
 # theme settings
