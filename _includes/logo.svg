@@ -1,0 +1,23 @@
+<svg id="logo" height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    #logo {fill: none; stroke:#333; stroke-linecap:round; stroke-linejoin:round; stroke-width:2.25}
+    #logo circle {animation-name: cycle; animation-timing-function: linear}
+    #logo #roof {animation-name: wiggle; animation-timing-function: ease}
+    #logo #rearwheel {transform-origin: 16.25px 38.75px}
+    #logo #frontwheel {transform-origin: 47.75px 38.75px}
+    #logo #roof {transform-origin: 23px 25.25px}
+    #logo circle, #logo #roof {animation-duration: 1s; animation-iteration-count: infinite; animation-play-state: paused}
+    #logo:hover circle {animation-play-state: running; stroke-dasharray: 24 4}
+    #logo:hover #roof {animation-play-state: running; stroke: #393}
+    @keyframes cycle {100% {transform: rotate(360deg)}}
+    @keyframes wiggle {50% {transform: rotate(15deg)}}
+  </style>
+  <circle id="rearwheel"  cx="16.25" cy="38.75" r="9"/>
+  <circle id="frontwheel" cx="47.75" cy="38.75" r="9"/>
+  <path id="frame"    d="m 27.5,25.25 15.75,0 -11.25,13.5 -15.75,0 z"/>
+  <path id="seatpost" d="m 33.125,42.125 -7.125,-21.375"/>
+  <path id="saddle"   d="m 23,20.75 h 4.5"/>
+  <path id="fork"     d="m 41.675,20.525 1.575,4.725 4.5,13.5"/>
+  <path id="bars"     d="m 41.675,20.525 a 3.375,3.375 0,0 1,1.205 -3.551,3.375 3.375,0 0,1 3.742,-0.245 3.375,3.375 0,0 1,1.659 3.363,3.375 3.375,0 0,1 -2.473,2.820"/>
+  <path id="roof"     d="m 9.5,25.25 6.75,-2.25 6.75,2.25"/>
+</svg>
